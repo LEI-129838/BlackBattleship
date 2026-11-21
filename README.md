@@ -23,5 +23,5 @@
 | :--- | :--- | :--- |
 | **UserStoryTest1** | **Como** jogador, **quero** definir ou alterar o meu *nickname* antes de iniciar uma partida, **para** ser identificado pelos adversários e nas tabelas classificativas. | `/en/battleship` |
 | **UserStoryTest2** | **Como** novo jogador, **quero** consultar as regras e o guia do jogo de Batalha Naval, **para** compreender a dimensão da frota e a mecânica dos disparos. | `/en/battleship` e `/docs/game-guides/` |
-| **UserStoryTest3** | **Como** jogador, **quero** iniciar uma partida contra um *robot*, **para** jogar imediatamente a solo sem esperar por outro utilizador. | `/en/battleship` |
+| **UserStoryTest3** | **Como** jogador, **quero** iniciar uma partida contra um *robot*, **para** jogar imediatamente a solo sem esperar por outro utilizador, caso esteja sozinho. | `/en/battleship` |
 | **UserStoryTest4** | **Como** jogador, **quero** consultar o histórico de partidas filtrado por *Battleships*, **para** rever os resultados dos meus jogos anteriores. | `/en/match-history?gameType=Battleships` |
