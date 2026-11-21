@@ -292,7 +292,7 @@ TestClass                  UserStory1                   WebPage
 ## 📋 Checklist de Conformidade
 
 - ✅ Classe `UserStory1.java` criada com padrão POM
-- ✅ Classe `UserStoryTest1.java` criada com testes JUnit
+- ✅ Classe `UserStory1Test.java` criada com testes JUnit
 - ✅ Javadoc completo em ambas as classes
 - ✅ Todos os localizadores CSS/XPath do IstarIscte.side implementados
 - ✅ Explicit waits implementados (10 segundos)
