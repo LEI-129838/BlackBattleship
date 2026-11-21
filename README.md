@@ -16,3 +16,9 @@
 * **Histórico de Partidas:** `https://papergames.io/en/match-history?gameType=Battleships`
 * **Comunidade e Loja:** `https://papergames.io/en/friends` | `https://papergames.io/en/chat` | `https://papergames.io/en/shop`
 * **Informação da Plataforma:** `https://papergames.io/en/changelog` | `https://papergames.io/en/blog/terms-conditions` | `https://papergames.io/en/blog/privacy-policy`
+
+### User Stories
+
+| ID | User Story | Página / Rota Associada |
+| :--- | :--- | :--- |
+| **UserStoryTest1** | **Como** jogador, **quero** definir ou alterar o meu *nickname* antes de iniciar uma partida, **para** ser identificado pelos adversários e nas tabelas classificativas. | `/en/battleship` |
