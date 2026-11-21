@@ -22,3 +22,4 @@
 | ID | User Story | Página / Rota Associada |
 | :--- | :--- | :--- |
 | **UserStoryTest1** | **Como** jogador, **quero** definir ou alterar o meu *nickname* antes de iniciar uma partida, **para** ser identificado pelos adversários e nas tabelas classificativas. | `/en/battleship` |
+| **UserStoryTest2** | **Como** novo jogador, **quero** consultar as regras e o guia do jogo de Batalha Naval, **para** compreender a dimensão da frota e a mecânica dos disparos. | `/en/battleship` e `/docs/game-guides/` |
